@@ -6,4 +6,4 @@
  Essa linha eu adicionei no site! Para aprender mais uma opção de alteração. 
  Muito legal!
 
-Essa nova linha estou treinando *Markdow* ( tambem na linha 2 adcionei o itálico). 
+Essa nova linha estou treinando *Markdow* ( tambem adcionei o itálico). 
